@@ -5,9 +5,17 @@ using information pulled from
 https://github.com/charmedlabs/pixy/blob/master/src/device/main_m4/src/serial.cpp
 
 This has been minimally tested on the EV3 with Lejos 0.9.1 EV3
+
+
 Known Working
+
 GetVersion()
+
 getModuleName()
+
 getModuleName2()
+
 unknown()
+
 getBiggestBlob()
+
